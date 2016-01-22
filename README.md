@@ -20,7 +20,7 @@ Some of the other objectives we wish to obtain in future :
 
 ## Installation
 
-Install flask framework ,nltk library , Pypdf library , Pdfminer library
+Install flask framework ,nltk library , PyPDF library , Pdfminer library , Watson Developer Cloud .
 Run main.py and follow
 
 ## API Reference
@@ -31,8 +31,8 @@ Depending on the size of the project, if it is small and simple enough the refer
 
 ## Contributors
 
-Arushi Garg (arushigarg)
-Snigdha Gupta (gsni30)
+Arushi Garg (arushigarg)  
+Snigdha Gupta (gsni30)  
 Shruti Sethia (shrutisethia04)
 
 
